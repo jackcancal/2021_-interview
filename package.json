@@ -1,0 +1,20 @@
+{
+  "name": "2021_interview",
+  "version": "1.0.0",
+  "description": "2021年面试题整理",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackcancal/2021_interview.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackcancal/2021_interview/issues"
+  },
+  "homepage": "https://github.com/jackcancal/2021_interview#readme"
+}
